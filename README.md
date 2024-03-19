@@ -1,5 +1,5 @@
 # Care-Packages
-DNA Keycards Official Wiki.
+Care Packes v2 Official Wiki.
 
 In here we cover how to properly configure the mod.
 
