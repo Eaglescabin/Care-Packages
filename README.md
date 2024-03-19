@@ -1,7 +1,7 @@
-# Care-Packages
-Care Packages v2 Official Wiki by Eagle
+# Care-Packages v2
+Care Packages v2 Official Wiki by Eagle.
 
-In here we cover how to properly configure the mod.
+In here you can find the tutorial on how to properly configure the mod.
 
 Please let us know in the [Discord](https://discord.gg/hKeDPcwCGx) if we've missed anything.
 
