@@ -1,558 +1,221 @@
-{ DEZE VERVANGEN
-  "Locations": [
-    {
-            "Name": "North Swansisland",
-            "Location": [
-				1122,
-				15217
-			],
-			"Accuracy": 50,
-	  		"AllowedPackageIDs": [
-				2
-			]
-    },
-    {
-            "Name": "Archipelago",
-            "Location": [
-				2746,
-				13729
-			],
-			"Accuracy": 50,
-	  		"AllowedPackageIDs": [
-				1
-			]
-    },
-    {
-            "Name": "Portland",
-            "Location": [
-				6144,
-				14547
-			],
-			"Accuracy": 50,
-	 		"AllowedPackageIDs": [
-				2
-			] 
-    },
-    {
-            "Name": "Arctic",
-            "Location": [
-				14496,
-				14286
-			],
-			"Accuracy": 50,
-	  		"AllowedPackageIDs": [
-				1
-			]
-    },
-    {
-            "Name": "Bayville",
-            "Location": [
-				9920,
-				12009
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				2
-			]	  
-    },
-    {
-            "Name": "KMUC",
-            "Location": [
-				7172,
-				11918
-			],
-			"Accuracy": 50,
-	  		"AllowedPackageIDs": [
-				1
-			]
-    },
+{
+    "Locations": [
         {
-            "Name": "KMUC",
+            "Name": "Krasnostav Airstrip",
             "Location": [
-				7172,
-				11918
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Woodworking",
-            "Location": [
-				5060,
-				12017
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "South Swansisland",
-            "Location": [
-				712,
-				12086
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Old Town",
-            "Location": [
-				2136,
-				8975
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Swamp",
-            "Location": [
-				3720,
-				8884
-			],
-			"Accuracy": 250,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Sandy Bay",
-            "Location": [
-				5198,
-				7926
-			],
-			"Accuracy": 200,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Mountainville",
-            "Location": [
-				7192,
-				8835
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Waldoboro",
-            "Location": [
-				8708,
-				9118
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "East Harbor",
-            "Location": [
-				11400,
-				10206
-				],
-			"Accuracy": 100,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Area 42",
-            "Location": [
-				13432,
-				9839
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Eastbrook",
-            "Location": [
-				10432,
-				7874
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Threepwood",
-            "Location": [
-				9024,
-				7754
-			],
-			"Accuracy": 250,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Sunset Cross",
-            "Location": [
-				6512,
-				6453
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Powerplant",
-            "Location": [
-				4946,
-				7077
-				],
-			"Accuracy": 25,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Westbrook",
-            "Location": [
-				3280,
-				6377
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Paris Island",
-            "Location": [
-				2852,
-				3908
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Devils Eye",
-            "Location": [
-				6653,
-				3476
-			],
-			"Accuracy": 15,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Kushville",
-            "Location": [
-				7543,
-				3908
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Camp Eagle",
-            "Location": [
-				8868,
-				3774
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Mine",
-            "Location": [
-				11084,
-				2292
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Ashenvale",
-            "Location": [
-				7288,
-				2592
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Stark Castle",
-            "Location": [
-				5750,
-				2402
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Scouts Camp West",
-            "Location": [
-				4948,
-				2120
-			],
-			"Accuracy": 50,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Prison",
-            "Location": [
-				5515,
-				679
-			],
-			"Accuracy": 75,
-			"AllowedPackageIDs": [
-				1
-			]
-        },
-        {
-            "Name": "Crater",
-            "Location": [
-				13480,
-				2484
-			],
-			"Accuracy": 100,
-			"AllowedPackageIDs": [
-				2
-			]
-        },
-        {
-            "Name": "Alcatraz",
-            "Location": [
-				15781,
-				4678
-			],
-			"Accuracy": 20,
-			"AllowedPackageIDs": [
-				1
-			]
-        }	
-  ],
-    "Packages": [
-        {
-            "Package_name": "Military",
-            "object_type": "CarePackage_blood_moon",
-            "parachute_type": "ArmyParachute_cadpat",
-            "MinWeapons": 1,
-            "MaxWeapons": 4,
-            "MinMiscItems": 5,
-            "MaxMiscItems": 10,
+                11930,12490 
+            ],
+            "Accuracy": 50,
             "AllowedPackageIDs": [
                 1
-            ],
-    "Items": [
-        {
-	    "Item": "Collectable_GPU",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "Collectable_PocketWatch",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "Collectable_CrossNecklace",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "Collectable_GameBoy_PokemonTwo",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "Collectable_PokemonCard_ShinyMewtwo",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "CP_CannabisSeedsPackBlackFrost",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "CP_CannabisSeedsPackFuture",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-	    {
-          "Item": "DP_CocaSeedsPack",
-          "MinQty": 1,
-          "MaxQty": 1
-        }	
-            ],
-   "Weapons": [
-        {
-          "Item": "Renegade_FAL_Black",
-          "MinQty": 1,
-          "MaxQty": 1,
-          "Attachments": [
-            "Renegade_FAL_300Rnd_Mag",
-            "Renegade_FAL_Black_Buttstock",
-            "Renegade_Black_HuntingOptic",
-            "Renegade_Black_RifleSuppressor"
-          ]
-        },
-        {
-          "Item": "Renegade_Black_Deagle",
-          "MinQty": 1,
-          "MaxQty": 1,
-          "Attachments": [
-            "Renegade_Deagle_30Rnd_Mag",
-            "FNP45_MRDSOptic",
-            "PistolSuppressor",
-            "Renegade_ExtendedBattery"
-                    ]
-                }
             ]
         },
         {
-            "Package_name": "Misc",
+            "Name": "Northwest Airfield",
+            "Location": [
+                4349,9826
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Novaya Petrovka",
+            "Location": [
+                3448,13039
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Severograd",
+            "Location": [
+                8030,12646
+            ],
+            "Accuracy": 20,
+            "AllowedPackageIDs": [
+                1
+             ]
+        },
+        {
+            "Name": "VMC",
+            "Location": [
+                4555,8160
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                2
+             ]
+        },
+        {
+            "Name": "Grishino",
+            "Location": [
+                6340,10215
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                2
+             ]
+        },
+        {
+            "Name": "Lopatino",
+            "Location": [
+                2530,10100
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                2
+             ]
+        },
+        {
+            "Name": "Pustoshka",
+            "Location": [
+                3050,8300
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                2
+             ]
+        }
+    ],
+
+
+
+    "Packages": [
+        {
+            "Package_name": "Care Package 1 - SURVIVAL KIT",
             "object_type": "CarePackage_typhon",
             "parachute_type": "ArmyParachute_typhon",
-            "MinWeapons": 1,
-            "MaxWeapons": 2,
+            "MinWeapons": 0,
+            "MaxWeapons": 0,
             "MinMiscItems": 5,
-            "MaxMiscItems": 10,
+            "MaxMiscItems": 6,
+            "AllowedPackageIDs": [
+                1
+            ],
+            "Items": [
+                {
+                    "Item": "AKM",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": [
+                        "Mag_AKM_Drum75rnd",
+                        "AK_WoodHndgrd",
+                        "AK_woodBttStck",
+                        "KobraOptic"]
+                },
+                {
+                    "Item": "Mag_AKM_Drum75rnd",
+                    "MinQty": 60,
+                    "MaxQty": 75,
+                    "Attachments": []
+                },
+                {
+                    "Item": "Canteen",
+                    "MinQty": 10000,
+                    "MaxQty": 10000,
+                    "Attachments": []
+                },
+
+                {
+                    "Item": "Rice",
+                    "MinQty": 1000,
+                    "MaxQty": 1000,
+                    "Attachments": []
+                },
+
+                {
+                    "Item": "Battery9V", 
+                    "MinQty": 100,
+                    "MaxQty": 100,
+                    "Attachments": []
+                },
+                {
+                    "Item": "PlateCarrierVest",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": ["PlateCarrierHolster",
+                                    "PlateCarrierPouches"]
+                }
+            ],
+            "Weapons":[]
+                },
+        {
+            "Package_name": "Care Package 2 - MEDICAL",
+            "object_type": "CarePackage_digital_black",
+            "parachute_type": "ArmyParachute_black_digital",
+            "MinWeapons": 0,
+            "MaxWeapons": 0,
+            "MinMiscItems": 3,
+            "MaxMiscItems": 4,
             "AllowedPackageIDs": [
                 2
             ],
-   "Items": [
-	  {
-          "Item": "FireworksLauncher",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "M79",
-          "MinQty": 1,
-          "MaxQty": 1
-	  },
-        {
-          "Item": "LDzRadio_Sonymp3",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "LDzRadio_NanoIpod",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "Msp_Egg_Green",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "Msp_Egg_Blue",
-          "MinQty": 1,
-          "MaxQty": 1
-        },
-        {
-          "Item": "Collectable_RAM",
-          "MinQty": 1,
-          "MaxQty": 1
-        }
+            "Items": [
+                {
+                    "Item": "BandageDressing",
+                    "MinQty": 80,
+                    "MaxQty": 100,
+                    "Attachments": []
+                },
+                {
+                    "Item": "TetracyclineAntibiotics",
+                    "MinQty": 4,
+                    "MaxQty": 10,
+                    "Attachments": []
+                },
+                {
+                    "Item": "VitaminBottle",
+                    "MinQty": 10,
+                    "MaxQty": 25,
+                    "Attachments": []
+                },                {
+                    "Item": "CharcoalTablets",
+                    "MinQty": 1,
+                    "MaxQty": 10,
+                    "Attachments": []
+                }
             ],
-   "Weapons": [
-        {
-          "Item": "SNAFUKivaari_Black_GUN",
-          "MinQty": 1,
-          "MaxQty": 1,
-          "Attachments": [
-            "SNAFUKivaari_25rdMag",
-			"SNAFUKivaari_338_Supp",
-			"HuntingOptic"
-          ]
+            "Weapons": []
         }
-	]
-     }
     ],
-    "InfectedTypes": [
-        "ZmbM_CitizenASkinny_Blue",
-        "ZmbM_CitizenASkinny_Brown",
-        "ZmbM_CitizenASkinny_Grey",
-        "ZmbM_MotobikerFat_Beige",
-        "ZmbM_MotobikerFat_Black",
-        "ZmbM_MotobikerFat_Blue",
-        "ZmbM_JoggerSkinny_Red",
-        "ZmbM_SkaterYoung_Blue",
-        "ZmbM_SkaterYoung_Brown",
-        "ZmbM_SkaterYoung_Green",
-        "ZmbM_SkaterYoung_Grey",
-        "ZmbM_ClerkFat_Brown",
-        "ZmbM_ClerkFat_Khaki",
-        "ZmbF_JournalistNormal_White",
-        "ZmbF_Clerk_Normal_White",
-        "ZmbF_CitizenANormal_Blue",
-        "ZmbF_CitizenBSkinny",
-        "ZmbF_HikerSkinny_Grey",
-        "ZmbF_SurvivorNormal_Orange",
-        "ZmbF_HikerSkinny_Green",
-        "ZmbF_JoggerSkinny_Green",
-        "ZmbF_SkaterYoung_Striped",
-        "ZmbF_BlueCollarFat_Red",
-        "ZmbF_MechanicNormal_Beige",
-        "ZmbF_PatientOld",
-        "ZmbF_ShortSkirt_beige",
-        "ZmbF_VillagerOld_Red",
-        "ZmbF_JoggerSkinny_Red",
-        "ZmbF_MilkMaidOld_Beige",
-        "ZmbF_VillagerOld_Green",
-        "ZmbF_ShortSkirt_yellow",
-        "ZmbF_NurseFat",
-        "ZmbF_PoliceWomanNormal",
-        "ZmbF_HikerSkinny_Blue",
-        "ZmbF_ParamedicNormal_Green",
-        "ZmbF_JournalistNormal_Red",
-        "ZmbF_SurvivorNormal_White",
-        "ZmbF_JoggerSkinny_Brown",
-        "ZmbF_MechanicNormal_Grey",
-        "ZmbF_BlueCollarFat_Green",
-        "ZmbF_DoctorSkinny",
-		"CDAJ_ZmbM_LostInfected",
-		"CDAJ_ZmbM_NBC_BlueLight"
-    ],
-    "MinutesBetweenPackages": 31,
-    "DropHeight": 200,
-    "DropTime": 15,
-    "PackageCallDelay": 15,
-    "MinutesAway": 2,
-    "MinimumPlayers": 2,
-    "PackagesBeingRan": 2,
-    "ZombiesToSpawn": 30,
-    "LocationHistoryCheckRange": 3,
-    "LootSpawnType": 0,
-    "LockPackages": 1,
-    "Title": "Care Package",
-    "DroppedMessage": "The care package has been deployed",
-    "StartMessage": "A care package is on its way to ",
-    "MinutesAwayPrefix": "The care package is ",
-    "MinutesAwaySuffix": " minutes away from "
+
+
+
+"InfectedTypes": [
+"Animal_CanisLupus_Grey",
+"Animal_CanisLupus_White",
+"Animal_UrsusArctos",
+"Animal_UrsusArctos",
+"Animal_UrsusArctos",
+"InfectedSoldierHardJMC",
+"ZmbF_ParamedicNormal_Blue",
+"ZmbF_ParamedicNormal_Green",
+"ZmbM_CitizenASkinny_Blue",
+"ZmbM_CitizenASkinny_Brown",
+"ZmbM_CitizenASkinny_Grey",
+"ZmbM_MotobikerFat_Beige",
+"ZmbM_MotobikerFat_Black",
+"ZmbM_MotobikerFat_Blue"
+   ],
+
+"LootSpawnType": 1,
+"MinutesBetweenPackages": 30,
+"DropHeight": 150,
+"DropTime": 15,
+"MinimumPlayers": -1,
+"PackagesBeingRan": 2,
+"PackageCallDelay": 5,
+"MinutesAway": 5,
+"ZombiesToSpawn": 14,
+"LocationHistoryCheckRange": 3,
+"LockPackages": true,
+"Title": "Care Package",
+"DroppedMessage": "The care package has been deployed",
+"StartMessage": "A care package is on its way to ",
+"MinutesAwayPrefix": "The care package is ",
+"MinutesAwaySuffix": " minutes away from "
 }
