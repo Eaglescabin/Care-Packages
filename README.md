@@ -1,3 +1,5 @@
+![SteamWorkshop](https://steamuserimages-a.akamaihd.net/ugc/1834652524924230581/23F98A782514328954E1128DF6658D6218950A9F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+
 # Care Packages v2
 Care Packages v2 - a installation guide by Eagle.
 
