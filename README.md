@@ -1,5 +1,5 @@
 # Care-Packages
-Care Packages v2 Official Wiki.
+Care Packages v2 Official Wiki by Eagle
 
 In here we cover how to properly configure the mod.
 
