@@ -1,5 +1,5 @@
 # Care Packages v2
-Care Packages v2 - a tutorial by Eagle.
+Care Packages v2 - a installation guide by Eagle.
 
 In here you can find the tutorial on how to properly configure the mod.
 
