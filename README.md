@@ -5,7 +5,7 @@ On here you can find the tutorial on how to properly configure the mod.
 
 Please let us know in the [Discord](https://discord.gg/hKeDPcwCGx) if we've missed anything.
 
-Go here for the tutorial (a pdf with 8 pages): [installation guide](https://github.com/Eaglescabin/Care-Packages/blob/main/CarePackages_Guide%20v1.2.pdf).
+Go here for the tutorial (a pdf with 8 pages): [installation guide](https://drive.google.com/file/d/1TOHEnoS-vww3g6RFqcs7HQd-vZCQ7VbO/view?usp=sharing).
 
 Go here for the new and updated config.json: [Config.json](https://github.com/Eaglescabin/Care-Packages/blob/main/config.json).
 
