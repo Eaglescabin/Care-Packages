@@ -7,7 +7,9 @@ Please let us know in the [Discord](https://discord.gg/hKeDPcwCGx) if we've miss
 
 Go here for the tutorial (a pdf with 8 pages): [installation guide](https://drive.google.com/file/d/1TOHEnoS-vww3g6RFqcs7HQd-vZCQ7VbO/view?usp=sharing).
 
-Go here for the new and updated config.json: [Config.json](https://github.com/Eaglescabin/Care_Packages/blob/main/config.json) (click on the button ![image](https://i.imgur.com/mEolNob.jpeg) in the upper right corner to download the file to your pc).
+Go here for the new and updated config.json: [Config.json](https://github.com/Eaglescabin/Care_Packages/blob/main/config.json) 
+
+(click on the button ![image](https://i.imgur.com/mEolNob.jpeg) in the upper right corner to download the file to your pc).
 
 ### FAQ
 
