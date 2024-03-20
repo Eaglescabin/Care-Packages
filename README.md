@@ -5,9 +5,9 @@ On here you can find the tutorial on how to properly configure the mod.
 
 Please let us know in the [Discord](https://discord.gg/hKeDPcwCGx) if we've missed anything.
 
-:parachute: Go here for the tutorial: [installation guide](https://tinyurl.com/hvxzujj6)
+:small_blue_diamond: Go here for the tutorial: [installation guide](https://tinyurl.com/hvxzujj6)
 
-:parachute: Go here for the new and updated config.json: [Config.json](https://github.com/Eaglescabin/Care_Packages/blob/main/config.json) (click on the button ![image](https://i.imgur.com/qmftEae.jpeg) in the upper right corner to download the file to your pc).
+:small_blue_diamond: Go here for the new and updated config.json: [Config.json](https://github.com/Eaglescabin/Care_Packages/blob/main/config.json) (click on the button ![image](https://i.imgur.com/qmftEae.jpeg) in the upper right corner to download the file to your pc).
 
 ### FAQ
 
