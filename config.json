@@ -1,3 +1,4 @@
+
 {
     "Locations": [
         {
@@ -14,6 +15,7 @@
             "Name": "Northwest Airfield",
             "Location": [
                 4349,9826
+
             ],
             "Accuracy": 50,
             "AllowedPackageIDs": [
@@ -47,7 +49,7 @@
             ],
             "Accuracy": 50,
             "AllowedPackageIDs": [
-                2
+                1
              ]
         },
         {
@@ -57,7 +59,7 @@
             ],
             "Accuracy": 50,
             "AllowedPackageIDs": [
-                2
+                1
              ]
         },
         {
@@ -67,7 +69,7 @@
             ],
             "Accuracy": 50,
             "AllowedPackageIDs": [
-                2
+                1
              ]
         },
         {
@@ -77,12 +79,10 @@
             ],
             "Accuracy": 50,
             "AllowedPackageIDs": [
-                2
+                1
              ]
         }
     ],
-
-
 
     "Packages": [
         {
@@ -141,6 +141,7 @@
                                     "PlateCarrierPouches"]
                 }
             ],
+
             "Weapons":[]
                 },
         {
@@ -152,7 +153,7 @@
             "MinMiscItems": 3,
             "MaxMiscItems": 4,
             "AllowedPackageIDs": [
-                2
+                1
             ],
             "Items": [
                 {
@@ -184,7 +185,6 @@
     ],
 
 
-
 "InfectedTypes": [
 "Animal_CanisLupus_Grey",
 "Animal_CanisLupus_White",
@@ -203,12 +203,12 @@
    ],
 
 "LootSpawnType": 1,
-"MinutesBetweenPackages": 30,
+"MinutesBetweenPackages": 60,
 "DropHeight": 150,
 "DropTime": 15,
 "MinimumPlayers": -1,
-"PackagesBeingRan": 2,
-"PackageCallDelay": 5,
+"PackagesBeingRan": 1,
+"PackageCallDelay": 30,
 "MinutesAway": 5,
 "ZombiesToSpawn": 14,
 "LocationHistoryCheckRange": 3,
