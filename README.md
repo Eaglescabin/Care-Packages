@@ -17,4 +17,5 @@ Go here for the [FAQ](https://github.com/Eaglescabin/Care_Packages/wiki) (WIP)
 
 
 ### Notice
-_I did not contribute in any way to the development of the mod. I created this manual because I wanted to contribute to the community. In the beginning I had a lot of questions regarding the configuration and after a lot of testing I have put my results on paper. Hopefully this manual can help others._
+_I did not contribute in any way to the development of the mod. I created this manual because I wanted to contribute to the community. In the beginning I had a lot of questions regarding the configuration and after a lot of testing I have put my results on paper.
+A big shout out to Discord member Bhaalgorn for his excellent help with analysis and his contribution to the creation of this manual. Hopefully this manual can help others._
